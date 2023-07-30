@@ -1,2 +1,7 @@
 config.yaml
 enlaces_magnet.txt
+*.yaml
+__pycache__/utils.cpython-311.pyc
+nombres_torrent.txt
+enlaces_magnet.txt
+enlaces_magnet.txt
