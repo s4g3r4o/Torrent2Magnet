@@ -51,7 +51,7 @@ def main():
             print(f"Se han generado correctamente {torrents_generados} magnets.")
             print(f"{errores} torrents han dado error.")
         else:
-            print("No se encontraron archivos .torrent en la carpeta.")
+            print("No se encontraron archivos .torrent en la carpeta. Revisa la ruta de los torrents en config.yaml")
     else:
         print("No se pudo obtener la ruta de la carpeta desde 'config.yaml'.")
 
